@@ -1,3 +1,7 @@
 *.pkl
-*.png
+/Project/data
+/Project/models
 *.xml
+*.model
+*.npy
+/Project/.ipynb_checkpoints
